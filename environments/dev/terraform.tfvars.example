@@ -1,0 +1,3 @@
+aws_region  = "us-east-1"
+bucket_name = "your-unique-secure-bucket-name-here"
+ecr_name    = "demoapp"
